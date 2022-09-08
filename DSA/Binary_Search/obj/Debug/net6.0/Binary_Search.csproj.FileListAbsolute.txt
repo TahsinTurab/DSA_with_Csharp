@@ -1,0 +1,15 @@
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\bin\Debug\net6.0\Binary_Search.exe
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\bin\Debug\net6.0\Binary_Search.deps.json
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\bin\Debug\net6.0\Binary_Search.runtimeconfig.json
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\bin\Debug\net6.0\Binary_Search.dll
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\bin\Debug\net6.0\Binary_Search.pdb
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.csproj.AssemblyReference.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.AssemblyInfoInputs.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.AssemblyInfo.cs
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.csproj.CoreCompileInputs.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.dll
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\refint\Binary_Search.dll
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.pdb
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\Binary_Search.genruntimeconfig.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Binary_Search\obj\Debug\net6.0\ref\Binary_Search.dll

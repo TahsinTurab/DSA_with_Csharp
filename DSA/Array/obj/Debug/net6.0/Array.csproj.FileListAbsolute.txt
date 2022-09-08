@@ -1,0 +1,15 @@
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\bin\Debug\net6.0\Array.exe
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\bin\Debug\net6.0\Array.deps.json
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\bin\Debug\net6.0\Array.dll
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\bin\Debug\net6.0\Array.pdb
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.dll
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\refint\Array.dll
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.pdb
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+G:\Training\DSA\DSA_with_Csharp\DSA\Array\obj\Debug\net6.0\ref\Array.dll
