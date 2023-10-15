@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k+i8651la9fhWpUk+fK5FZ2imkPhN5MPeBJrFYYlmdG6bvrc1N/MR3CJLloTkCKRWmlWfKVd2iHXKsYY+WOUMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tahsin Hasan Turab\\Desktop\\DSA_with_Csharp\\Array\\Array\\SingleNumber\\SingleNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tahsin Hasan Turab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Tahsin Hasan Turab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Tahsin Hasan Turab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Tahsin Hasan Turab\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
