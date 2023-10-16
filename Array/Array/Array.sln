@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twoSum", "twoSum\twoSum.csproj", "{7496E951-7099-4C62-85BD-BD931ADD9B5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "twoSum", "twoSum\twoSum.csproj", "{7496E951-7099-4C62-85BD-BD931ADD9B5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros", "MoveZeros\MoveZeros.csproj", "{60132E8F-6801-4868-921D-56C167D0C76F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeros", "MoveZeros\MoveZeros.csproj", "{60132E8F-6801-4868-921D-56C167D0C76F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{DB0F33C9-7F88-4C9C-B22D-4721CE8D219E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{DB0F33C9-7F88-4C9C-B22D-4721CE8D219E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MargeSortedArray", "MargeSortedArray\MargeSortedArray.csproj", "{3E12A7DF-A55E-43F4-89E5-EC07B10402C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MargeSortedArray", "MargeSortedArray\MargeSortedArray.csproj", "{3E12A7DF-A55E-43F4-89E5-EC07B10402C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{237D40EB-D205-4296-ACC5-E852C2004CA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{237D40EB-D205-4296-ACC5-E852C2004CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockII", "BestTimeToBuyAndSellStockII\BestTimeToBuyAndSellStockII.csproj", "{906F61ED-F702-4481-938B-223CAF0F08AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Sum", "4Sum\4Sum.csproj", "{0317D689-1977-4E08-BA4A-A4C5D2B034CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{DDD9DDDE-3FAE-4D4A-B277-552C13038E00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{237D40EB-D205-4296-ACC5-E852C2004CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237D40EB-D205-4296-ACC5-E852C2004CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237D40EB-D205-4296-ACC5-E852C2004CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906F61ED-F702-4481-938B-223CAF0F08AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906F61ED-F702-4481-938B-223CAF0F08AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906F61ED-F702-4481-938B-223CAF0F08AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906F61ED-F702-4481-938B-223CAF0F08AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0317D689-1977-4E08-BA4A-A4C5D2B034CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0317D689-1977-4E08-BA4A-A4C5D2B034CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0317D689-1977-4E08-BA4A-A4C5D2B034CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0317D689-1977-4E08-BA4A-A4C5D2B034CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD9DDDE-3FAE-4D4A-B277-552C13038E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD9DDDE-3FAE-4D4A-B277-552C13038E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD9DDDE-3FAE-4D4A-B277-552C13038E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD9DDDE-3FAE-4D4A-B277-552C13038E00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
